@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Atualmente trabalhando como Desenvolvedora Web/FullStack na BuzzCode<br><br>👯 Formação 4° Semestre em Engenharia de Software no UniCeub<br><br>🤝 Buscando oportunidades em Trabalho e estágio na área de Engenharia de Software<br><br>🌱 Estudando no momento Arquitetura de software, segurança web e integração de microsserviços<br><br>💬 Pode me perguntar sobre Desenvolvimento full stack, Python, Inteligência Artificial e APIs<br><br>⚡ Curiosidade: Fundei a BuzzCode do zero e hoje coleciono feedbacks positivos sobre minhas entregas
 
 
